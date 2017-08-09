@@ -1,0 +1,148 @@
+body {
+  background-color:#fff;
+  font-family: 'Open Sans', sans-serif;
+  margin:0px;
+  display: flex;
+  justify-content:center;
+  align-items:center;
+  flex-direction:column;
+}
+
+h1, h2, h3 {
+  font-size:1em;
+  margin:2px;
+  text-align:center;
+}
+
+h1 {
+  font-size:1.2em;
+}
+
+h2 {
+  font-size:1em;
+  font-weight:400;
+}
+
+a {
+  text-decoration:none;
+  font-size:1em;
+}
+
+.spacingx2 {
+  line-height:1.7em;
+  max-width:500px;
+  letter-spacing:.21em;
+}
+
+.everything {
+  text-align:center;
+  max-width:700px;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+}
+
+.banner {
+  padding-top:60px;
+  color:#f44336;
+  font-weight:700;
+  display:flex;
+  align-items:center;
+  flex-direction:column;
+  padding:5px;
+  width:100vw;
+}
+
+.header {
+  font-family: 'Source Code Pro', sans-serif;
+  text-transform:uppercase;
+}
+
+.padding {
+  padding:10px;
+}
+
+
+
+.quote {
+  image-rendering:pixelated;
+  width:27px;
+  transform: scale(1, 1);
+}
+
+.top {
+  display:flex;
+  flex-direction:column;
+  margin-left:20px;
+  margin-right:10px;
+  align-items: stretch;
+  display: flex;
+}
+
+.bottom {
+  align-items: stretch;
+  display: flex;
+  margin-right:20px;
+  margin-left:10px;
+  display:flex;
+  flex-direction:column;
+  justify-content: flex-end;
+}
+
+.container {
+  display:flex;
+}
+
+.quoteheader {
+ font-family: 'Source Code Pro', sans-serif;
+  max-width:600px;
+  margin:10px;
+
+  display:flex;
+  justify-content:center;
+  text-align:center;
+}
+
+.largercontainer {
+  display:flex;
+  flex-direction:column;
+}
+
+.subheader {
+  font-size:.8em;
+  display:flex;
+  justify-content:flex-end;
+  margin-top:10px;
+  margin-right:20px;
+}
+
+p {
+  max-width:700px;
+  text-align:center;
+}
+
+.orange {
+  font-weight:700;
+  color:#f44336;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.blue {
+  color:#0000ee;
+  font-size:1.2em;
+  text-align:center;
+  max-width:380px;
+  line-height:1.4em;
+  letter-spacing:.15em;
+}
+
+.padding2 {
+  margin:10px;
+}
+
+.actuallyred {
+  color:#f44336;
+}
