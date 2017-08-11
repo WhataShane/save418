@@ -73,7 +73,8 @@ a {
 }
 
 .header {
-
+  font-family: 'Source Code Pro', sans-serif;
+  text-transform:uppercase;
 }
 
 .padding {
@@ -187,17 +188,13 @@ p {
     font-family: 'Open Sans', sans-serif;
 }
 
-.robotfont {
-  font-family: 'Source Code Pro', sans-serif;
-  text-transform: uppercase;
-}
 .blue {
   color:#0000ee;
   font-size:1.2em;
   text-align:center;
   max-width:380px;
   line-height:1.4em;
-  letter-spacing:.01em;
+  letter-spacing:.15em;
 }
 
 .padding2 {
@@ -211,7 +208,7 @@ p {
 .spacingx2 {
   line-height:1.7em;
   max-width:500px;
-  letter-spacing:.01em;
+  letter-spacing:.21em;
   margin:10px;
       font-family: 'Open Sans', sans-serif;
 }
