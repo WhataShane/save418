@@ -1,5 +1,5 @@
 body {
-    background-color: #fff;
+    background-color: #FAFAFA;;
     font-family: 'Open Sans', sans-serif;
     margin: 0px;
     display: -webkit-box;
@@ -188,4 +188,7 @@ p {
 }
 .contact {
   padding-bottom:20px;
+}
+.body > article {
+  background-color:white;
 }
