@@ -187,6 +187,8 @@ p {
     margin: 10px;
     font-family: 'Open Sans', sans-serif;
     text-align: justify;
+    margin-left: 5px;
+    margin-right:5px;
 }
 .contact {
   padding-bottom:20px;
