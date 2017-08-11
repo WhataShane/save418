@@ -192,3 +192,10 @@ p {
 .body > article {
   background-color:white;
 }
+.aboutme {
+  text-align: justify;
+  max-width: 500px;
+}
+.justify {
+  text-align:justify;
+}
