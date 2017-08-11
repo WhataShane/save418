@@ -46,6 +46,7 @@ a {
     -ms-flex-align: center;
     align-items: center;
     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    margin-bottom:30px;
 }
 .banner {
     margin-top: 15px;
@@ -63,6 +64,7 @@ a {
     flex-direction: column;
     padding: 5px;
     width: 100vw;
+    margin-bottom: 10px;
 }
 .robotfont {
     font-family: 'Source Code Pro', sans-serif;
