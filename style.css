@@ -184,7 +184,6 @@ p {
 .spacingx2 {
     line-height: 1.7em;
     max-width: 500px;
-    letter-spacing: .01em;
     margin: 10px;
     font-family: 'Open Sans', sans-serif;
     text-align: justify;
@@ -195,7 +194,6 @@ p {
 
 body > article {
   background-color:white;
-
 }
 .aboutme {
   text-align: justify;
