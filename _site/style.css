@@ -223,3 +223,7 @@ body > article > h1 {
 .q {
   color:#4f4f4f;
 }
+
+.bold {
+  font-weight: 700;
+}
